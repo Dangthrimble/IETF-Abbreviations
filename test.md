@@ -7,5 +7,5 @@
 # Test table
 
 | *Column 1* | *Column 2* | *Column 3* |
-| -- | :--: | -- |
+| ---- | :--: | ---- |
 | R1 C1 | R1 C2 | R1 C3 |
