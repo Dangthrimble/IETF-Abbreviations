@@ -1,5 +1,5 @@
 | *Term* | *Abbreviation?* | *Meaning* |
-| - |:-:| - |
+| ---- |:--:| ---- |
 | [16NG ](http://datatracker.ietf.org/doc/search/?name=16NG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/16NG/charter/) | IP over IEEE 802.16 Networks |
 | [2000 ](http://datatracker.ietf.org/doc/search/?name=2000&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/2000/charter/) | The Internet and the Millennium Problem |
 | [6BONE ](http://datatracker.ietf.org/doc/search/?name=6BONE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/6BONE/charter/) | IPv6 Backbone |
