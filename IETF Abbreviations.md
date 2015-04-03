@@ -112,6 +112,7 @@
 | [BGP2 ](http://datatracker.ietf.org/doc/search/?name=BGP2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Border Gateway Protocol 2 |
 | [BGP3 ](http://datatracker.ietf.org/doc/search/?name=BGP3&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Border Gateway Protocol 3 |
 | [BGPDEPL ](http://datatracker.ietf.org/doc/search/?name=BGPDEPL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/BGPDEPL/charter/) | BGP Deployment and Application |
+| [BIC ](http://datatracker.ietf.org/doc/search/?name=BIC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Bit Independence Criterion |
 | [BIER ](http://datatracker.ietf.org/doc/search/?name=BIER&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/BIER/charter/) | Bit Indexed Explicit Replication |
 | [BLISS ](http://datatracker.ietf.org/doc/search/?name=BLISS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/BLISS/charter/) | Basic Level of Interoperability for SIP Services |
 | [BMWG ](http://datatracker.ietf.org/doc/search/?name=BMWG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/BMWG/charter/) | Benchmarking Methodology |
@@ -128,21 +129,21 @@
 | [CALSCH ](http://datatracker.ietf.org/doc/search/?name=CALSCH&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CALSCH/charter/) | Calendaring and Scheduling |
 | [CALSIFY ](http://datatracker.ietf.org/doc/search/?name=CALSIFY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CALSIFY/charter/) | Calendaring and Scheduling Standards Simplification |
 | [CAPWAP ](http://datatracker.ietf.org/doc/search/?name=CAPWAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CAPWAP/charter/) | Control And Provisioning of Wireless Access Points |
-| [CAST-128 ](http://datatracker.ietf.org/doc/search/?name=CAST-128&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [CAST-256 ](http://datatracker.ietf.org/doc/search/?name=CAST-256&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CAST-128 ](http://datatracker.ietf.org/doc/search/?name=CAST-128&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | An encryption algorithm whose name is based on the initials of its inventors (Carlisle Adams and Stafford Tavares) |
+| [CAST-256 ](http://datatracker.ietf.org/doc/search/?name=CAST-256&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | An encryption algorithm whose name is based on the initials of its inventors (Carlisle Adams and Stafford Tavares) |
 | [CAT ](http://datatracker.ietf.org/doc/search/?name=CAT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CAT/charter/) | Common Authentication Technology |
 | [CATENATE ](http://datatracker.ietf.org/doc/search/?name=CATENATE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | Extension to the IMAP APPEND command |
 | [CATNIP ](http://datatracker.ietf.org/doc/search/?name=CATNIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CATNIP/charter/) | Common Architecture for Next Generation IP |
 | [CBC ](http://datatracker.ietf.org/doc/search/?name=CBC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Cipher Block Chaining |
-| [CBC-MAC ](http://datatracker.ietf.org/doc/search/?name=CBC-MAC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CBC-MAC ](http://datatracker.ietf.org/doc/search/?name=CBC-MAC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Cipher Block Chaining Message Authentication Code |
 | [CBI ](http://datatracker.ietf.org/doc/search/?name=CBI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Computer Based Instruction |
 | [CBOR ](http://datatracker.ietf.org/doc/search/?name=CBOR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Concise Binary Object Representation |
 | [CCA ](http://datatracker.ietf.org/doc/search/?name=CCA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [CCAMP ](http://datatracker.ietf.org/doc/search/?name=CCAMP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CCAMP/charter/) | Common Control and Measurement Plane |
-| [CCITT ](http://datatracker.ietf.org/doc/search/?name=CCITT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CCITT ](http://datatracker.ietf.org/doc/search/?name=CCITT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | International Telegraph and Telephone Consultative Committee (in French: Comité Consultatif International Téléphonique et Télégraphique), now the ITU-T |
 | [CCM ](http://datatracker.ietf.org/doc/search/?name=CCM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Counter with CBC-MAC |
-| [CCN ](http://datatracker.ietf.org/doc/search/?name=CCN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [CCSO ](http://datatracker.ietf.org/doc/search/?name=CCSO&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CCN ](http://datatracker.ietf.org/doc/search/?name=CCN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Campus Computing network (of UCLA); Content-Centric Networking |
+| [CCSO ](http://datatracker.ietf.org/doc/search/?name=CCSO&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Computing and Communications Services Office |
 | [CDI ](http://datatracker.ietf.org/doc/search/?name=CDI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CDI/charter/) | Content Distribution Internetworking |
 | [CDMA ](http://datatracker.ietf.org/doc/search/?name=CDMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [CDMA2000 ](http://datatracker.ietf.org/doc/search/?name=CDMA2000&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -554,7 +555,8 @@
 | [ISSN-URN ](http://datatracker.ietf.org/doc/search/?name=ISSN-URN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ISUP ](http://datatracker.ietf.org/doc/search/?name=ISUP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ITRACE ](http://datatracker.ietf.org/doc/search/?name=ITRACE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ITRACE/charter/) | ICMP Traceback |
-| [ITU-T ](http://datatracker.ietf.org/doc/search/?name=ITU-T&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [ITU ](http://datatracker.ietf.org/doc/search/?name=ITU&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | International Telecommunication Union |
+| [ITU-T ](http://datatracker.ietf.org/doc/search/?name=ITU-T&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | ITU Telecommunication Standardization Sector |
 | [IUA ](http://datatracker.ietf.org/doc/search/?name=IUA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [IUP ](http://datatracker.ietf.org/doc/search/?name=IUP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/IUP/charter/) | Internet User Population |
 | [IV ](http://datatracker.ietf.org/doc/search/?name=IV&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -1017,6 +1019,7 @@
 | [RUN ](http://datatracker.ietf.org/doc/search/?name=RUN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RUN/charter/) | Responsible Use of the Network |
 | [RWHOIS ](http://datatracker.ietf.org/doc/search/?name=RWHOIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RWHOIS/charter/) | RWhois Operational Development |
 | [S-E ](http://datatracker.ietf.org/doc/search/?name=S-E&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [SAC ](http://datatracker.ietf.org/doc/search/?name=SAC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Strict Avalanche Criterion |
 | [SACK ](http://datatracker.ietf.org/doc/search/?name=SACK&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Selective Acknowledgment |
 | [SACK-IMMEDIATELY ](http://datatracker.ietf.org/doc/search/?name=SACK-IMMEDIATELY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | An extension to the Stream Control Transmission Protocol |
 | [SACM ](http://datatracker.ietf.org/doc/search/?name=SACM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/SACM/charter/) | Security Automation and Continuous Monitoring |
@@ -1108,6 +1111,7 @@
 | [SPKI ](http://datatracker.ietf.org/doc/search/?name=SPKI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SPKI/charter/) | Simple Public Key Infrastructure |
 | [SPKM ](http://datatracker.ietf.org/doc/search/?name=SPKM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SPLICES ](http://datatracker.ietf.org/doc/search/?name=SPLICES&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SPLICES/charter/) | looSely-couPLed sIp deviCES |
+| [SPN ](http://datatracker.ietf.org/doc/search/?name=SPN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Substitution-Permutation Network |
 | [SPRING ](http://datatracker.ietf.org/doc/search/?name=SPRING&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/SPRING/charter/) | Source Packet Routing in Networking |
 | [SPWG ](http://datatracker.ietf.org/doc/search/?name=SPWG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SPWG/charter/) | Internet Security Policy |
 | [SPX ](http://datatracker.ietf.org/doc/search/?name=SPX&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -1204,7 +1208,7 @@
 | [TURN ](http://datatracker.ietf.org/doc/search/?name=TURN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [TZDIST ](http://datatracker.ietf.org/doc/search/?name=TZDIST&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/TZDIST/charter/) | Time Zone Data Distribution Service |
 | [UCL ](http://datatracker.ietf.org/doc/search/?name=UCL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [UCLA ](http://datatracker.ietf.org/doc/search/?name=UCLA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [UCLA ](http://datatracker.ietf.org/doc/search/?name=UCLA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | University of California, Los Angeles |
 | [UCLA-CCN ](http://datatracker.ietf.org/doc/search/?name=UCLA-CCN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [UCP ](http://datatracker.ietf.org/doc/search/?name=UCP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/UCP/charter/) | User Connectivity |
 | [UCSB ](http://datatracker.ietf.org/doc/search/?name=UCSB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
