@@ -150,7 +150,7 @@
 | [CDMA2000 ](http://datatracker.ietf.org/doc/search/?name=CDMA2000&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [CDNI ](http://datatracker.ietf.org/doc/search/?name=CDNI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CDNI/charter/) | Content Delivery Networks Interconnection |
 | [CEASE ](http://datatracker.ietf.org/doc/search/?name=CEASE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | A memory allocation control command |
-| [CENTURY ](http://datatracker.ietf.org/doc/search/?name=CENTURY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | |
+| [CENTURY ](http://datatracker.ietf.org/doc/search/?name=CENTURY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | Just a word capitalised in the title of an RFC |
 | [CHARMIB ](http://datatracker.ietf.org/doc/search/?name=CHARMIB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHARMIB/charter/) | Character MIB |
 | [CHASSIS ](http://datatracker.ietf.org/doc/search/?name=CHASSIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHASSIS/charter/) | Chassis MIB |
 | [CHRONOS ](http://datatracker.ietf.org/doc/search/?name=CHRONOS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHRONOS/charter/) | Distributed Scheduling Protocol |
@@ -171,16 +171,16 @@
 | [CoAP ](http://datatracker.ietf.org/doc/search/?name=CoAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Constrained Application Protocol |
 | [CODEC ](http://datatracker.ietf.org/doc/search/?name=CODEC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CODEC/charter/) | Internet Wideband Audio Codec |
 | [CoMI ](http://datatracker.ietf.org/doc/search/?name=CoMI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | CoAP Management Interface |
-| [COMPUTER ](http://datatracker.ietf.org/doc/search/?name=COMPUTER&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [COMPUTER ](http://datatracker.ietf.org/doc/search/?name=COMPUTER&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | Just a word capitalised in the title of an RFC |
 | [CONEX ](http://datatracker.ietf.org/doc/search/?name=CONEX&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CONEX/charter/) | Congestion Exposure |
 | [CONNEG ](http://datatracker.ietf.org/doc/search/?name=CONNEG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CONNEG/charter/) | Content Negotiation |
-| [CONVERT ](http://datatracker.ietf.org/doc/search/?name=CONVERT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [COPS ](http://datatracker.ietf.org/doc/search/?name=COPS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [CORBA ](http://datatracker.ietf.org/doc/search/?name=CORBA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CONVERT ](http://datatracker.ietf.org/doc/search/?name=CONVERT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | An extension to IMAP4 |
+| [COPS ](http://datatracker.ietf.org/doc/search/?name=COPS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Common Open Policy Service |
+| [CORBA ](http://datatracker.ietf.org/doc/search/?name=CORBA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Common Object Request Broker Architecture |
 | [CORE ](http://datatracker.ietf.org/doc/search/?name=CORE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CORE/charter/) | Constrained RESTful Environments |
-| [COSINE ](http://datatracker.ietf.org/doc/search/?name=COSINE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [COSINE ](http://datatracker.ietf.org/doc/search/?name=COSINE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Co-operation and Open Systems Interconnection in Europe |
 | [CPE ](http://datatracker.ietf.org/doc/search/?name=CPE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Customer-Premises Equipment |
-| [CR-LDP ](http://datatracker.ietf.org/doc/search/?name=CR-LDP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CR-LDP ](http://datatracker.ietf.org/doc/search/?name=CR-LDP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Constraint-based Routing Label Distribution Protocol |
 | [CRISP ](http://datatracker.ietf.org/doc/search/?name=CRISP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CRISP/charter/) | Cross Registry Information Service Protocol |
 | [CRL ](http://datatracker.ietf.org/doc/search/?name=CRL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [CRONUS ](http://datatracker.ietf.org/doc/search/?name=CRONUS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
