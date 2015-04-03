@@ -47,6 +47,7 @@
 | [AIW ](http://datatracker.ietf.org/doc/search/?name=AIW&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | APPN Implementers Workshop |
 | [ALE ](http://datatracker.ietf.org/doc/search/?name=ALE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ALE/charter/) | Address Lifetime Expectations |
 | [ALERTMAN ](http://datatracker.ietf.org/doc/search/?name=ALERTMAN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ALERTMAN/charter/) | Alert Management |
+| [ALL ](http://datatracker.ietf.org/doc/search/?name=ALL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | A memory allocation control command |
 | [ALTO ](http://datatracker.ietf.org/doc/search/?name=ALTO&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/ALTO/charter/) | Application-Layer Traffic Optimization |
 | [ALU ](http://datatracker.ietf.org/doc/search/?name=ALU&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Alcatel-Lucent |
 | [AM ](http://datatracker.ietf.org/doc/search/?name=AM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Armenia |
@@ -138,34 +139,34 @@
 | [CBC-MAC ](http://datatracker.ietf.org/doc/search/?name=CBC-MAC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Cipher Block Chaining Message Authentication Code |
 | [CBI ](http://datatracker.ietf.org/doc/search/?name=CBI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Computer Based Instruction |
 | [CBOR ](http://datatracker.ietf.org/doc/search/?name=CBOR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Concise Binary Object Representation |
-| [CCA ](http://datatracker.ietf.org/doc/search/?name=CCA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CCA ](http://datatracker.ietf.org/doc/search/?name=CCA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Computer Corporation of America |
 | [CCAMP ](http://datatracker.ietf.org/doc/search/?name=CCAMP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CCAMP/charter/) | Common Control and Measurement Plane |
 | [CCITT ](http://datatracker.ietf.org/doc/search/?name=CCITT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | International Telegraph and Telephone Consultative Committee (in French: Comité Consultatif International Téléphonique et Télégraphique), now the ITU-T |
 | [CCM ](http://datatracker.ietf.org/doc/search/?name=CCM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Counter with CBC-MAC |
 | [CCN ](http://datatracker.ietf.org/doc/search/?name=CCN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Campus Computing network (of UCLA); Content-Centric Networking |
 | [CCSO ](http://datatracker.ietf.org/doc/search/?name=CCSO&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Computing and Communications Services Office |
 | [CDI ](http://datatracker.ietf.org/doc/search/?name=CDI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CDI/charter/) | Content Distribution Internetworking |
-| [CDMA ](http://datatracker.ietf.org/doc/search/?name=CDMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CDMA ](http://datatracker.ietf.org/doc/search/?name=CDMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Code Division Multiple Access |
 | [CDMA2000 ](http://datatracker.ietf.org/doc/search/?name=CDMA2000&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [CDNI ](http://datatracker.ietf.org/doc/search/?name=CDNI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CDNI/charter/) | Content Delivery Networks Interconnection |
-| [CEASE ](http://datatracker.ietf.org/doc/search/?name=CEASE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [CENTURY ](http://datatracker.ietf.org/doc/search/?name=CENTURY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CEASE ](http://datatracker.ietf.org/doc/search/?name=CEASE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | A memory allocation control command |
+| [CENTURY ](http://datatracker.ietf.org/doc/search/?name=CENTURY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | |
 | [CHARMIB ](http://datatracker.ietf.org/doc/search/?name=CHARMIB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHARMIB/charter/) | Character MIB |
 | [CHASSIS ](http://datatracker.ietf.org/doc/search/?name=CHASSIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHASSIS/charter/) | Chassis MIB |
 | [CHRONOS ](http://datatracker.ietf.org/doc/search/?name=CHRONOS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHRONOS/charter/) | Distributed Scheduling Protocol |
 | [CIDR ](http://datatracker.ietf.org/doc/search/?name=CIDR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Classless Inter-Domain Routing |
 | [CIDRD ](http://datatracker.ietf.org/doc/search/?name=CIDRD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CIDRD/charter/) | CIDR Deployment |
 | [CIP ](http://datatracker.ietf.org/doc/search/?name=CIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CIP/charter/) | Connection IP |
-| [CIPID ](http://datatracker.ietf.org/doc/search/?name=CIPID&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CIPID ](http://datatracker.ietf.org/doc/search/?name=CIPID&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Contact Information for the Presence Information Data |
 | [CIPSO ](http://datatracker.ietf.org/doc/search/?name=CIPSO&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CIPSO/charter/) | Commercial Internet Protocol Security Option |
-| [CJ ](http://datatracker.ietf.org/doc/search/?name=CJ&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [CJK ](http://datatracker.ietf.org/doc/search/?name=CJK&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [CLEFIA ](http://datatracker.ietf.org/doc/search/?name=CLEFIA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [CLNP ](http://datatracker.ietf.org/doc/search/?name=CLNP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [CLNS ](http://datatracker.ietf.org/doc/search/?name=CLNS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CJK ](http://datatracker.ietf.org/doc/search/?name=CJK&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Chinese, Japanese and Korean |
+| [CLEFIA ](http://datatracker.ietf.org/doc/search/?name=CLEFIA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | A lightweight blockcipher algorithm |
+| [CLNP ](http://datatracker.ietf.org/doc/search/?name=CLNP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Connectionless-mode Network Protocol |
+| [CLNS ](http://datatracker.ietf.org/doc/search/?name=CLNS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Connectionless-mode Network Service |
 | [CLUE ](http://datatracker.ietf.org/doc/search/?name=CLUE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CLUE/charter/) | ControLling mUltiple streams for tElepresence |
 | [CMAC ](http://datatracker.ietf.org/doc/search/?name=CMAC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Cipher-based Message Authentication Code |
-| [CMIP ](http://datatracker.ietf.org/doc/search/?name=CMIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [CMIP ](http://datatracker.ietf.org/doc/search/?name=CMIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Common Management Information Protocol |
+| [CMIS ](http://datatracker.ietf.org/doc/search/?name=CMIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Common Management Information Services |
 | [CMS ](http://datatracker.ietf.org/doc/search/?name=CMS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Cryptographic Message Syntax |
 | [CoAP ](http://datatracker.ietf.org/doc/search/?name=CoAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Constrained Application Protocol |
 | [CODEC ](http://datatracker.ietf.org/doc/search/?name=CODEC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CODEC/charter/) | Internet Wideband Audio Codec |
@@ -359,7 +360,7 @@
 | [GSS ](http://datatracker.ietf.org/doc/search/?name=GSS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [GSS-API ](http://datatracker.ietf.org/doc/search/?name=GSS-API&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [GSTN ](http://datatracker.ietf.org/doc/search/?name=GSTN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [GVB ](http://datatracker.ietf.org/doc/search/?name=GVB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [GVB ](http://datatracker.ietf.org/doc/search/?name=GVB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | A memory allocation control command |
 | [GZIP ](http://datatracker.ietf.org/doc/search/?name=GZIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [H-FP ](http://datatracker.ietf.org/doc/search/?name=H-FP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [H-J ](http://datatracker.ietf.org/doc/search/?name=H-J&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -965,12 +966,12 @@
 | [RESCAP ](http://datatracker.ietf.org/doc/search/?name=RESCAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RESCAP/charter/) | Resource Capabilities Discovery |
 | [RESTCONF ](http://datatracker.ietf.org/doc/search/?name=RESTCONF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | An HTTP based protocol for accessing data defined in YANG, using datastores defined in NETCONF
 | [RESULTS ](http://datatracker.ietf.org/doc/search/?name=RESULTS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [RET ](http://datatracker.ietf.org/doc/search/?name=RET&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [RET ](http://datatracker.ietf.org/doc/search/?name=RET&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | A memory allocation control command |
 | [REVELATIONS ](http://datatracker.ietf.org/doc/search/?name=REVELATIONS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RF ](http://datatracker.ietf.org/doc/search/?name=RF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RFC ](http://datatracker.ietf.org/doc/search/?name=RFC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Request For Comment |
 | [RFC-822 ](http://datatracker.ietf.org/doc/search/?name=RFC-822&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [RFNM ](http://datatracker.ietf.org/doc/search/?name=RFNM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [RFNM ](http://datatracker.ietf.org/doc/search/?name=RFNM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Request For Next Message |
 | [RIG ](http://datatracker.ietf.org/doc/search/?name=RIG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RIP ](http://datatracker.ietf.org/doc/search/?name=RIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RIP/charter/) | Routing Information Protocol |
 | [RIP-2 ](http://datatracker.ietf.org/doc/search/?name=RIP-2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
