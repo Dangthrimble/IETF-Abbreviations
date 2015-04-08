@@ -155,6 +155,7 @@
 | [CDNI ](http://datatracker.ietf.org/doc/search/?name=CDNI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/CDNI/charter/) | Content Delivery Networks Interconnection |
 | [CEASE ](http://datatracker.ietf.org/doc/search/?name=CEASE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | A memory allocation control command |
 | [CENTURY ](http://datatracker.ietf.org/doc/search/?name=CENTURY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | Just a word capitalised in the title of an RFC |
+| [CGA ](http://datatracker.ietf.org/doc/search/?name=CGA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Cryptographically Generated Address |
 | [CHARMIB ](http://datatracker.ietf.org/doc/search/?name=CHARMIB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHARMIB/charter/) | Character MIB |
 | [CHASSIS ](http://datatracker.ietf.org/doc/search/?name=CHASSIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHASSIS/charter/) | Chassis MIB |
 | [CHRONOS ](http://datatracker.ietf.org/doc/search/?name=CHRONOS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/CHRONOS/charter/) | Distributed Scheduling Protocol |
@@ -567,7 +568,7 @@
 | [ISO-2022-JP ](http://datatracker.ietf.org/doc/search/?name=ISO-2022-JP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ISO-2022-JP-2 ](http://datatracker.ietf.org/doc/search/?name=ISO-2022-JP-2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ISO-TP0 ](http://datatracker.ietf.org/doc/search/?name=ISO-TP0&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [ISOC ](http://datatracker.ietf.org/doc/search/?name=ISOC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [ISOC ](http://datatracker.ietf.org/doc/search/?name=ISOC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Internet Society |
 | [ISP ](http://datatracker.ietf.org/doc/search/?name=ISP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ISPP ](http://datatracker.ietf.org/doc/search/?name=ISPP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ISPP/charter/) | Internet Secure Payments Protocol |
 | [ISSLL ](http://datatracker.ietf.org/doc/search/?name=ISSLL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ISSLL/charter/) | Integrated Services over Specific Link Layers |
@@ -613,6 +614,7 @@
 | [KRB-WG ](http://datatracker.ietf.org/doc/search/?name=KRB-WG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/KRB-WG/charter/) | Kerberos |
 | [KRFC ](http://datatracker.ietf.org/doc/search/?name=KRFC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [KY ](http://datatracker.ietf.org/doc/search/?name=KY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [LC ](http://datatracker.ietf.org/doc/search/?name=LC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Last Call |
 | [L-A ](http://datatracker.ietf.org/doc/search/?name=L-A&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [L-E ](http://datatracker.ietf.org/doc/search/?name=L-E&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [L-N ](http://datatracker.ietf.org/doc/search/?name=L-N&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -710,6 +712,7 @@
 | [MIP6 ](http://datatracker.ietf.org/doc/search/?name=MIP6&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/MIP6/charter/) | Mobility for IPv6 |
 | [MIPSHOP ](http://datatracker.ietf.org/doc/search/?name=MIPSHOP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/MIPSHOP/charter/) | Mobility for IP: Performance, Signaling and Handoff Optimization |
 | [MISTY1 ](http://datatracker.ietf.org/doc/search/?name=MISTY1&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [MISSREF ](http://datatracker.ietf.org/doc/search/?name=MISSREF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Missing Reference |
 | [MIT ](http://datatracker.ietf.org/doc/search/?name=MIT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MIT-DMS ](http://datatracker.ietf.org/doc/search/?name=MIT-DMS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MIT-MATHLAB ](http://datatracker.ietf.org/doc/search/?name=MIT-MATHLAB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -940,7 +943,7 @@
 | [PROFORMA ](http://datatracker.ietf.org/doc/search/?name=PROFORMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [PROPOSED ](http://datatracker.ietf.org/doc/search/?name=PROPOSED&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [PROVREG ](http://datatracker.ietf.org/doc/search/?name=PROVREG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/PROVREG/charter/) | Provisioning Registry Protocol |
-| [PS ](http://datatracker.ietf.org/doc/search/?name=PS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [PS ](http://datatracker.ietf.org/doc/search/?name=PS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Proposed Standard |
 | [PSAMP ](http://datatracker.ietf.org/doc/search/?name=PSAMP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/PSAMP/charter/) | Packet Sampling |
 | [PSK ](http://datatracker.ietf.org/doc/search/?name=PSK&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Pre-Shared Key |
 | [PSN ](http://datatracker.ietf.org/doc/search/?name=PSN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -1019,11 +1022,13 @@
 | [RR ](http://datatracker.ietf.org/doc/search/?name=RR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RREQ ](http://datatracker.ietf.org/doc/search/?name=RREQ&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RREQ/charter/) | Router Requirements |
 | [RRSIG ](http://datatracker.ietf.org/doc/search/?name=RRSIG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [RSE ](http://datatracker.ietf.org/doc/search/?name=RSE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | RFC Series Editor |
 | [RSA ](http://datatracker.ietf.org/doc/search/?name=RSA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RSA-KEM ](http://datatracker.ietf.org/doc/search/?name=RSA-KEM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RSAES-OAEP ](http://datatracker.ietf.org/doc/search/?name=RSAES-OAEP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RSASSA-PSS ](http://datatracker.ietf.org/doc/search/?name=RSASSA-PSS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RSERPOOL ](http://datatracker.ietf.org/doc/search/?name=RSERPOOL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RSERPOOL/charter/) | Reliable Server Pooling |
+| [RSOC ](http://datatracker.ietf.org/doc/search/?name=RSOC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | RFC Series Oversight Committee |
 | [RSIP ](http://datatracker.ietf.org/doc/search/?name=RSIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RSVP ](http://datatracker.ietf.org/doc/search/?name=RSVP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RSVP/charter/) | Resource Reservation Setup Protocol |
 | [RSVP ](http://datatracker.ietf.org/doc/search/?name=RSVP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Resource Reservation Protocol |
@@ -1060,6 +1065,7 @@
 | [SDP ](http://datatracker.ietf.org/doc/search/?name=SDP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Session Description Protocol |
 | [SDR ](http://datatracker.ietf.org/doc/search/?name=SDR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SDR/charter/) | Source Demand Routing |
 | [SEAMOBY ](http://datatracker.ietf.org/doc/search/?name=SEAMOBY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SEAMOBY/charter/) | Context Transfer, Handoff Candidate Discovery, and Dormant Mode Host Alerting |
+| [Secdir ](http://datatracker.ietf.org/doc/Secdir/?name=SEARCH&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Security Directorate |
 | [SEARCH ](http://datatracker.ietf.org/doc/search/?name=SEARCH&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SECSH ](http://datatracker.ietf.org/doc/search/?name=SECSH&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SECSH/charter/) | Secure Shell |
 | [SEED ](http://datatracker.ietf.org/doc/search/?name=SEED&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -1150,7 +1156,7 @@
 | [ST2 ](http://datatracker.ietf.org/doc/search/?name=ST2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ST2/charter/) | Internet Stream Protocol V2 |
 | [STANDARD ](http://datatracker.ietf.org/doc/search/?name=STANDARD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [STATUS ](http://datatracker.ietf.org/doc/search/?name=STATUS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [STD ](http://datatracker.ietf.org/doc/search/?name=STD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [STD ](http://datatracker.ietf.org/doc/search/?name=STD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Standard (RFC) |
 | [STDGUIDE ](http://datatracker.ietf.org/doc/search/?name=STDGUIDE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/STDGUIDE/charter/) | Guide for Internet Standards Writers |
 | [STIME ](http://datatracker.ietf.org/doc/search/?name=STIME&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/STIME/charter/) | Secure Network Time Protocol |
 | [STIR ](http://datatracker.ietf.org/doc/search/?name=STIR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/STIR/charter/) | Secure Telephone Identity Revisited |
@@ -1220,6 +1226,7 @@
 | [TRILL ](http://datatracker.ietf.org/doc/search/?name=TRILL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/TRILL/charter/) | Transparent Interconnection of Lots of Links |
 | [TRMON ](http://datatracker.ietf.org/doc/search/?name=TRMON&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/TRMON/charter/) | Token Ring Remote Monitoring |
 | [TRUNKMIB ](http://datatracker.ietf.org/doc/search/?name=TRUNKMIB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/TRUNKMIB/charter/) | DS1/DS3 MIB |
+| [TS ](http://datatracker.ietf.org/doc/search/?name=TS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Technical Specification |
 | [TSCH ](http://datatracker.ietf.org/doc/search/?name=TSCH&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [TSIG ](http://datatracker.ietf.org/doc/search/?name=TSIG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [TSO ](http://datatracker.ietf.org/doc/search/?name=TSO&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
