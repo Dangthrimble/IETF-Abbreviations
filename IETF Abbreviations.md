@@ -55,6 +55,7 @@
 | [AMR ](http://datatracker.ietf.org/doc/search/?name=AMR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Adaptive Multi-Rate |
 | [AMR-WB+ ](http://datatracker.ietf.org/doc/search/?name=AMR-WB+&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Extended Adaptive Multi-Rate Wideband |
 | [ANCP ](http://datatracker.ietf.org/doc/search/?name=ANCP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/ANCP/charter/) | Access Node Control Protocol |
+| [ANDSF ](http://datatracker.ietf.org/doc/search/?name=ANDSF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Access Network Discovery and Selection Function |
 | [ANIMA ](http://datatracker.ietf.org/doc/search/?name=ANIMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/ANIMA/charter/) | Autonomic Networking Integrated Model and Approach |
 | [ANL ](http://datatracker.ietf.org/doc/search/?name=ANL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Argonne National Laboratory |
 | [ANNOTATE ](http://datatracker.ietf.org/doc/search/?name=ANNOTATE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | An IMAP extension |
@@ -123,7 +124,6 @@
 | [BMWG ](http://datatracker.ietf.org/doc/search/?name=BMWG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/BMWG/charter/) | Benchmarking Methodology |
 | [BNF ](http://datatracker.ietf.org/doc/search/?name=BNF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Backus-Naur Form |
 | [BOF ](http://datatracker.ietf.org/doc/search/?name=BOF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Birds Of A Feather |
-| [BONE ](http://datatracker.ietf.org/doc/search/?name=BONE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Based Overlay Networking Environment |
 | [BOOTP ](http://datatracker.ietf.org/doc/search/?name=BOOTP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Bootstrap Protocol |
 | [BRIDGE ](http://datatracker.ietf.org/doc/search/?name=BRIDGE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/BRIDGE/charter/) | Bridge MIB |
 | [BSD ](http://datatracker.ietf.org/doc/search/?name=BSD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Berkeley Software Distribution |
@@ -196,6 +196,7 @@
 | [DAD ](http://datatracker.ietf.org/doc/search/?name=DAD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Duplicate Address Detection |
 | [DAG ](http://datatracker.ietf.org/doc/search/?name=DAG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Directory Access Gateway |
 | [DANE ](http://datatracker.ietf.org/doc/search/?name=DANE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/DANE/charter/) | DNS-based Authentication of Named Entities |
+| [DAP ](http://datatracker.ietf.org/doc/search/?name=DAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Directory Access Protocol |
 | [DARPA ](http://datatracker.ietf.org/doc/search/?name=DARPA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Defense Advanced Research Projects Agency |
 | [DART ](http://datatracker.ietf.org/doc/search/?name=DART&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DART/charter/) | DiffServ Applied to Real-time Transports |
 | [DASL ](http://datatracker.ietf.org/doc/search/?name=DASL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DASL/charter/) | DAV Searching and Locating |
@@ -209,21 +210,22 @@
 | [DCNET ](http://datatracker.ietf.org/doc/search/?name=DCNET&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [DDDS ](http://datatracker.ietf.org/doc/search/?name=DDDS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Dynamic Delegation Discovery System |
 | [DDN ](http://datatracker.ietf.org/doc/search/?name=DDN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Defense Data Network |
-| [DEC ](http://datatracker.ietf.org/doc/search/?name=DEC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [DEC ](http://datatracker.ietf.org/doc/search/?name=DEC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Digital Equipment Corporation |
 | [DECADE ](http://datatracker.ietf.org/doc/search/?name=DECADE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DECADE/charter/) | Decoupled Application Data Enroute |
 | [DECNETIV ](http://datatracker.ietf.org/doc/search/?name=DECNETIV&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DECNETIV/charter/) | DECnet Phase IV MIB |
 | [DEFLATE ](http://datatracker.ietf.org/doc/search/?name=DEFLATE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [DEL ](http://datatracker.ietf.org/doc/search/?name=DEL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Decode Encode Language |
-| [DES ](http://datatracker.ietf.org/doc/search/?name=DES&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [DES3 ](http://datatracker.ietf.org/doc/search/?name=DES3&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [DES ](http://datatracker.ietf.org/doc/search/?name=DES&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Data Encryption Standard |
+| [DES3 ](http://datatracker.ietf.org/doc/search/?name=DES3&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Triple-DES |
 | [DHC ](http://datatracker.ietf.org/doc/search/?name=DHC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/DHC/charter/) | Dynamic Host Configuration |
 | [DHCP ](http://datatracker.ietf.org/doc/search/?name=DHCP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Dynamic Host Configuration Protocol |
+| [DHT ](http://datatracker.ietf.org/doc/search/?name=DHT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Distributed Hash Table |
 | [DICE ](http://datatracker.ietf.org/doc/search/?name=DICE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/DICE/charter/) | DTLS In Constrained Environments |
 | [DIFFSERV ](http://datatracker.ietf.org/doc/search/?name=DIFFSERV&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DIFFSERV/charter/) | Differentiated Services |
 | [DIGEST-MD5 ](http://datatracker.ietf.org/doc/search/?name=DIGEST-MD5&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [DIME ](http://datatracker.ietf.org/doc/search/?name=DIME&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/DIME/charter/) | Diameter Maintenance and Extensions |
 | [DIS ](http://datatracker.ietf.org/doc/search/?name=DIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [DISA ](http://datatracker.ietf.org/doc/search/?name=DISA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [DISA ](http://datatracker.ietf.org/doc/search/?name=DISA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Defense Information Systems Agency |
 | [DISCOVER ](http://datatracker.ietf.org/doc/search/?name=DISCOVER&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [DISI ](http://datatracker.ietf.org/doc/search/?name=DISI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DISI/charter/) | Directory Information Services Infrastructure |
 | [DISMAN ](http://datatracker.ietf.org/doc/search/?name=DISMAN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DISMAN/charter/) | Distributed Management |
@@ -253,6 +255,7 @@
 | [DPA ](http://datatracker.ietf.org/doc/search/?name=DPA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [DPNSS ](http://datatracker.ietf.org/doc/search/?name=DPNSS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Digital Private Network Signaling System |
 | [DPRIVE ](http://datatracker.ietf.org/doc/search/?name=DPRIVE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/DPRIVE/charter/) | DNS PRIVate Exchange |
+| [DPS ](http://datatracker.ietf.org/doc/search/?name=DPS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Domain Pseudonym System |
 | [DRAFT ](http://datatracker.ietf.org/doc/search/?name=DRAFT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [DRINKS ](http://datatracker.ietf.org/doc/search/?name=DRINKS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/DRINKS/charter/) | Data for Reachability of Inter/tra-NetworK SIP |
 | [DRUMS ](http://datatracker.ietf.org/doc/search/?name=DRUMS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DRUMS/charter/) | Detailed Revision/Update of Message Standards |
@@ -307,11 +310,12 @@
 | [EOF ](http://datatracker.ietf.org/doc/search/?name=EOF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [EOS ](http://datatracker.ietf.org/doc/search/?name=EOS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/EOS/charter/) | Evolution of SNMP |
 | [EPPEXT ](http://datatracker.ietf.org/doc/search/?name=EPPEXT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/EPPEXT/charter/) | Extensible Provisioning Protocol Extensions |
+| [ERP ](http://datatracker.ietf.org/doc/search/?name=ERP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | EAP Re-authentication Protocol |
 | [ES ](http://datatracker.ietf.org/doc/search/?name=ES&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ESCC ](http://datatracker.ietf.org/doc/search/?name=ESCC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ESMTP ](http://datatracker.ietf.org/doc/search/?name=ESMTP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ESNET ](http://datatracker.ietf.org/doc/search/?name=ESNET&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [ESP ](http://datatracker.ietf.org/doc/search/?name=ESP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [ESP ](http://datatracker.ietf.org/doc/search/?name=ESP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Encapsulating Security Payload |
 | [ESP-NULL ](http://datatracker.ietf.org/doc/search/?name=ESP-NULL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ETHERMIB ](http://datatracker.ietf.org/doc/search/?name=ETHERMIB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ETHERMIB/charter/) | Ethernet MIB |
 | [ETSI ](http://datatracker.ietf.org/doc/search/?name=ETSI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | European Telecommunications Standards Institute |
@@ -386,6 +390,7 @@
 | [HEMS ](http://datatracker.ietf.org/doc/search/?name=HEMS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [HF ](http://datatracker.ietf.org/doc/search/?name=HF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [HIP ](http://datatracker.ietf.org/doc/search/?name=HIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/HIP/charter/) | Host Identity Protocol |
+| [HIP BONE ](http://datatracker.ietf.org/doc/search/?name=HIP BONE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Host Identity Protocol-Based Overlay Networking Environment |
 | [HIPPI ](http://datatracker.ietf.org/doc/search/?name=HIPPI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [HIPPI-6400 ](http://datatracker.ietf.org/doc/search/?name=HIPPI-6400&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [HIPPI-800 ](http://datatracker.ietf.org/doc/search/?name=HIPPI-800&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -447,7 +452,7 @@
 | [ICP ](http://datatracker.ietf.org/doc/search/?name=ICP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ICS ](http://datatracker.ietf.org/doc/search/?name=ICS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Internet  Clock Service |
 | [ID ](http://datatracker.ietf.org/doc/search/?name=ID&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [IDEA ](http://datatracker.ietf.org/doc/search/?name=IDEA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [IDEA ](http://datatracker.ietf.org/doc/search/?name=IDEA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | International Data Encryption Algorithm |
 | [IDENT ](http://datatracker.ietf.org/doc/search/?name=IDENT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/IDENT/charter/) | TCP Client Identity Protocol |
 | [IDevID ](http://datatracker.ietf.org/doc/search/?name=IDevID&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Initial Device Identity |
 | [IDMR ](http://datatracker.ietf.org/doc/search/?name=IDMR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/IDMR/charter/) | Inter-Domain Multicast Routing |
@@ -471,6 +476,7 @@
 | [IETF ](http://datatracker.ietf.org/doc/search/?name=IETF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Internet Engineering Task Force |
 | [IETF-ISOC ](http://datatracker.ietf.org/doc/search/?name=IETF-ISOC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [IFMIB ](http://datatracker.ietf.org/doc/search/?name=IFMIB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/IFMIB/charter/) | Interfaces MIB |
+| [IGMP ](http://datatracker.ietf.org/doc/search/?name=IGMP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Internet Group Management Protocol |
 | [IGP ](http://datatracker.ietf.org/doc/search/?name=IGP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [II ](http://datatracker.ietf.org/doc/search/?name=II&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [III ](http://datatracker.ietf.org/doc/search/?name=III&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -628,7 +634,7 @@
 | [LATEST ](http://datatracker.ietf.org/doc/search/?name=LATEST&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [LBL ](http://datatracker.ietf.org/doc/search/?name=LBL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [LC ](http://datatracker.ietf.org/doc/search/?name=LC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Last Call |
-| [LDAP ](http://datatracker.ietf.org/doc/search/?name=LDAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [LDAP ](http://datatracker.ietf.org/doc/search/?name=LDAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Lightweight Directory Access Protocol |
 | [LDAPBIS ](http://datatracker.ietf.org/doc/search/?name=LDAPBIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/LDAPBIS/charter/) | LDAP (v3) Revision |
 | [LDAPEXT ](http://datatracker.ietf.org/doc/search/?name=LDAPEXT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/LDAPEXT/charter/) | LDAP Extension |
 | [LDP ](http://datatracker.ietf.org/doc/search/?name=LDP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -637,13 +643,14 @@
 | [LEMONADE ](http://datatracker.ietf.org/doc/search/?name=LEMONADE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/LEMONADE/charter/) | Enhancements to Internet email to Support Diverse Service Environments |
 | [LIME ](http://datatracker.ietf.org/doc/search/?name=LIME&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/LIME/charter/) | Layer Independent OAM Management in the Multi-Layer Environment |
 | [LIPKEY ](http://datatracker.ietf.org/doc/search/?name=LIPKEY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [LIS ](http://datatracker.ietf.org/doc/search/?name=LIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Location Information Server |
 | [LISP ](http://datatracker.ietf.org/doc/search/?name=LISP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/LISP/charter/) | Locator/ID Separation Protocol |
 | [LIST ](http://datatracker.ietf.org/doc/search/?name=LIST&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/LIST/charter/) | Automated Internet Mailing List Services |
 | [LL ](http://datatracker.ietf.org/doc/search/?name=LL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [LL-67 ](http://datatracker.ietf.org/doc/search/?name=LL-67&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [LLC1 ](http://datatracker.ietf.org/doc/search/?name=LLC1&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [LM ](http://datatracker.ietf.org/doc/search/?name=LM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [LMA ](http://datatracker.ietf.org/doc/search/?name=LMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [LMA ](http://datatracker.ietf.org/doc/search/?name=LMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Local Mobility Anchor |
 | [LMAP ](http://datatracker.ietf.org/doc/search/?name=LMAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/LMAP/charter/) | Large-Scale Measurement of Broadband Performance |
 | [LMP ](http://datatracker.ietf.org/doc/search/?name=LMP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Link Management Protocol |
 | [LMTP ](http://datatracker.ietf.org/doc/search/?name=LMTP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -722,6 +729,7 @@
 | [MIXER ](http://datatracker.ietf.org/doc/search/?name=MIXER&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/MIXER/charter/) | MIME - X.400 Gateway |
 | [MKCOL ](http://datatracker.ietf.org/doc/search/?name=MKCOL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MLC ](http://datatracker.ietf.org/doc/search/?name=MLC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [MLD ](http://datatracker.ietf.org/doc/search/?name=MLD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Multicast Listener Discovery |
 | [MLFL ](http://datatracker.ietf.org/doc/search/?name=MLFL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MLTNET ](http://datatracker.ietf.org/doc/search/?name=MLTNET&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MMB ](http://datatracker.ietf.org/doc/search/?name=MMB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/MMB/charter/) | Multi-Media Bridging |
@@ -795,6 +803,7 @@
 | [NGP-0 ](http://datatracker.ietf.org/doc/search/?name=NGP-0&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NGTRANS ](http://datatracker.ietf.org/doc/search/?name=NGTRANS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/NGTRANS/charter/) | Next Generation Transition |
 | [NGWG ](http://datatracker.ietf.org/doc/search/?name=NGWG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [NHDP ](http://datatracker.ietf.org/doc/search/?name=NHDP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Neighborhood Discovery Protocol |
 | [NHRP ](http://datatracker.ietf.org/doc/search/?name=NHRP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NIC ](http://datatracker.ietf.org/doc/search/?name=NIC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NIC15389 ](http://datatracker.ietf.org/doc/search/?name=NIC15389&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -861,6 +870,7 @@
 | [OID ](http://datatracker.ietf.org/doc/search/?name=OID&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [OIM ](http://datatracker.ietf.org/doc/search/?name=OIM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/OIM/charter/) | OSI Internet Management |
 | [OLS ](http://datatracker.ietf.org/doc/search/?name=OLS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [OLSRv2 ](http://datatracker.ietf.org/doc/search/?name=OLSRv2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Optimized Link State Routing Protocol Version 2 |
 | [OMA ](http://datatracker.ietf.org/doc/search/?name=OMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Open Mobile Alliance |
 | [OMA-IETF ](http://datatracker.ietf.org/doc/search/?name=OMA-IETF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [ON ](http://datatracker.ietf.org/doc/search/?name=ON&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -984,6 +994,7 @@
 | [RECEIPT ](http://datatracker.ietf.org/doc/search/?name=RECEIPT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RECEIPT/charter/) | Receipt Notifications for Internet Mail |
 | [REFER ](http://datatracker.ietf.org/doc/search/?name=REFER&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [RELAY ](http://datatracker.ietf.org/doc/search/?name=RELAY&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [RELOAD ](http://datatracker.ietf.org/doc/search/?name=RELOAD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Resource Location And Discovery |
 | [REMEMBER ](http://datatracker.ietf.org/doc/search/?name=REMEMBER&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [REPUTE ](http://datatracker.ietf.org/doc/search/?name=REPUTE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/REPUTE/charter/) | Reputation Services |
 | [RESCAP ](http://datatracker.ietf.org/doc/search/?name=RESCAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/RESCAP/charter/) | Resource Capabilities Discovery |
@@ -1097,6 +1108,7 @@
 | [SIPREC ](http://datatracker.ietf.org/doc/search/?name=SIPREC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/SIPREC/charter/) | SIP Recording |
 | [SIPS ](http://datatracker.ietf.org/doc/search/?name=SIPS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SK ](http://datatracker.ietf.org/doc/search/?name=SK&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [SKI ](http://datatracker.ietf.org/doc/search/?name=SKI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Subject Key Identifier |
 | [SKINSTAK ](http://datatracker.ietf.org/doc/search/?name=SKINSTAK&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SKINSTAK/charter/) | OSI Upper-Layer Communications for Applications |
 | [SKIP ](http://datatracker.ietf.org/doc/search/?name=SKIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SKIPJACK ](http://datatracker.ietf.org/doc/search/?name=SKIPJACK&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -1333,7 +1345,7 @@
 | [WIDEX ](http://datatracker.ietf.org/doc/search/?name=WIDEX&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/WIDEX/charter/) | Widget Description Exchange Service |
 | [WITHIN ](http://datatracker.ietf.org/doc/search/?name=WITHIN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [WNILS ](http://datatracker.ietf.org/doc/search/?name=WNILS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/WNILS/charter/) | Whois and Network Information Lookup Service |
-| [WPAN ](http://datatracker.ietf.org/doc/search/?name=WPAN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [WPAN ](http://datatracker.ietf.org/doc/search/?name=WPAN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Wireless Personal Area Network |
 | [WPKOPS ](http://datatracker.ietf.org/doc/search/?name=WPKOPS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/WPKOPS/charter/) | Web PKI OPS |
 | [WREC ](http://datatracker.ietf.org/doc/search/?name=WREC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/WREC/charter/) | Web Replication and Caching |
 | [WS ](http://datatracker.ietf.org/doc/search/?name=WS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
