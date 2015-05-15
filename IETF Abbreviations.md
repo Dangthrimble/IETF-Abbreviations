@@ -51,6 +51,7 @@
 | [ALE ](http://datatracker.ietf.org/doc/search/?name=ALE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ALE/charter/) | Address Lifetime Expectations |
 | [ALERTMAN ](http://datatracker.ietf.org/doc/search/?name=ALERTMAN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/ALERTMAN/charter/) | Alert Management |
 | [ALL ](http://datatracker.ietf.org/doc/search/?name=ALL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | No | A memory allocation control command |
+| [ALPS ](http://datatracker.ietf.org/doc/search/?name=ALPS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Application-Level Profile Semantics |
 | [ALTO ](http://datatracker.ietf.org/doc/search/?name=ALTO&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/ALTO/charter/) | Application-Layer Traffic Optimization |
 | [ALU ](http://datatracker.ietf.org/doc/search/?name=ALU&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Alcatel-Lucent |
 | [AM ](http://datatracker.ietf.org/doc/search/?name=AM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Armenia |
@@ -123,8 +124,10 @@
 | [BGP2 ](http://datatracker.ietf.org/doc/search/?name=BGP2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Border Gateway Protocol 2 |
 | [BGP3 ](http://datatracker.ietf.org/doc/search/?name=BGP3&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Border Gateway Protocol 3 |
 | [BGPDEPL ](http://datatracker.ietf.org/doc/search/?name=BGPDEPL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/BGPDEPL/charter/) | BGP Deployment and Application |
+| [BIA ](http://datatracker.ietf.org/doc/search/?name=BIA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Bump-in-the-API |
 | [BIC ](http://datatracker.ietf.org/doc/search/?name=BIC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Bit Independence Criterion |
 | [BIER ](http://datatracker.ietf.org/doc/search/?name=BIER&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/BIER/charter/) | Bit Indexed Explicit Replication |
+| [BIS ](http://datatracker.ietf.org/doc/search/?name=BIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Bump-In-the-Stack |
 | [BLISS ](http://datatracker.ietf.org/doc/search/?name=BLISS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/BLISS/charter/) | Basic Level of Interoperability for SIP Services |
 | [BMWG ](http://datatracker.ietf.org/doc/search/?name=BMWG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/BMWG/charter/) | Benchmarking Methodology |
 | [BNF ](http://datatracker.ietf.org/doc/search/?name=BNF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Backus-Naur Form |
@@ -273,23 +276,25 @@
 | [DPS ](http://datatracker.ietf.org/doc/search/?name=DPS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Domain Pseudonym System |
 | [DRAFT ](http://datatracker.ietf.org/doc/search/?name=DRAFT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [DRINKS ](http://datatracker.ietf.org/doc/search/?name=DRINKS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/DRINKS/charter/) | Data for Reachability of Inter/tra-NetworK SIP |
+| [DRPC ](http://datatracker.ietf.org/doc/search/?name=DRPC&rfcs=on&activedrafts=on&olddrafts=on&sort=) |Yes | Dual-end Recursive PCE-Based Computation |
 | [DRUMS ](http://datatracker.ietf.org/doc/search/?name=DRUMS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/DRUMS/charter/) | Detailed Revision/Update of Message Standards |
 | [DS ](http://datatracker.ietf.org/doc/search/?name=DS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Draft Standard |
-| [DS-1 ](http://datatracker.ietf.org/doc/search/?name=DS-1&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [DS0 ](http://datatracker.ietf.org/doc/search/?name=DS0&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [DS1 ](http://datatracker.ietf.org/doc/search/?name=DS1&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [DS-1 ](http://datatracker.ietf.org/doc/search/?name=DS-1&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Presumably | A proposed modular graphic/alphanumeric display system |
+| [DS0 ](http://datatracker.ietf.org/doc/search/?name=DS0&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Digital Signal 0 |
+| [DS1 ](http://datatracker.ietf.org/doc/search/?name=DS1&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Digital Signal 1 |
 | [DS2 ](http://datatracker.ietf.org/doc/search/?name=DS2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [DS3 ](http://datatracker.ietf.org/doc/search/?name=DS3&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [DS3 ](http://datatracker.ietf.org/doc/search/?name=DS3&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Digital Signal 3 |
 | [DSA ](http://datatracker.ietf.org/doc/search/?name=DSA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Digital Signature Algorithm |
 | [DSACK ](http://datatracker.ietf.org/doc/search/?name=DSACK&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Duplicate Selective Acknowledgement |
 | [DSAP ](http://datatracker.ietf.org/doc/search/?name=DSAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | DKIM Signature Authorization Protocol |
-| [DSE ](http://datatracker.ietf.org/doc/search/?name=DSE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [DSL ](http://datatracker.ietf.org/doc/search/?name=DSL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [DSN ](http://datatracker.ietf.org/doc/search/?name=DSN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
-| [DSTM ](http://datatracker.ietf.org/doc/search/?name=DSTM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Dual Stack IPv6 Dominant Transition Mechanism |
+| [DSE ](http://datatracker.ietf.org/doc/search/?name=DSE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | DSA-Specific Entry |
+| [DSL ](http://datatracker.ietf.org/doc/search/?name=DSL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Digital Subscriber Line |
+| [DSN ](http://datatracker.ietf.org/doc/search/?name=DSN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Delivery Status Notification |
+| [DSNP ](http://datatracker.ietf.org/doc/search/?name=DSNP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Dynamic Service Negotiation Protocol |
+| [DSTM ](http://datatracker.ietf.org/doc/search/?name=DSTM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Dual Stack IPv6 Dominant Transition Mechanism; Dual Stack Transition Mechanism |
 | [DT ](http://datatracker.ietf.org/doc/search/?name=DT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Design Team |
 | [DTLS ](http://datatracker.ietf.org/doc/search/?name=DTLS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Datagram Transport Layer Security |
-| [DTMF ](http://datatracker.ietf.org/doc/search/?name=DTMF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [DTMF ](http://datatracker.ietf.org/doc/search/?name=DTMF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Dual-Tone Multi-Frequency |
 | [DTN ](http://datatracker.ietf.org/doc/search/?name=DTN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/DTN/charter/) | Delay/Disruption Tolerant Networking |
 | [DTP ](http://datatracker.ietf.org/doc/search/?name=DTP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Data Transfer Protocol |
 | [DUA ](http://datatracker.ietf.org/doc/search/?name=DUA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -409,6 +414,7 @@
 | [H-Y ](http://datatracker.ietf.org/doc/search/?name=H-Y&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [HARTS ](http://datatracker.ietf.org/doc/search/?name=HARTS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/HARTS/charter/) | Humanities and Arts |
 | [HDLC ](http://datatracker.ietf.org/doc/search/?name=HDLC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [HDSL2 ](http://datatracker.ietf.org/doc/search/?name=HDSL2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | High Bit-Rate DSL - 2nd generation |
 | [HEMS ](http://datatracker.ietf.org/doc/search/?name=HEMS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [HF ](http://datatracker.ietf.org/doc/search/?name=HF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [HIP ](http://datatracker.ietf.org/doc/search/?name=HIP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/HIP/charter/) | Host Identity Protocol |
@@ -681,6 +687,7 @@
 | [LMAP ](http://datatracker.ietf.org/doc/search/?name=LMAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Lightweight MTA Authentication Protocol |
 | [LMP ](http://datatracker.ietf.org/doc/search/?name=LMP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Link Management Protocol |
 | [LMTP ](http://datatracker.ietf.org/doc/search/?name=LMTP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [LOADSEL ](http://datatracker.ietf.org/doc/search/?name=LOADSEL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Load Selection |
 | [LPD ](http://datatracker.ietf.org/doc/search/?name=LPD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [LSA ](http://datatracker.ietf.org/doc/search/?name=LSA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [LSD ](http://datatracker.ietf.org/doc/search/?name=LSD&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/LSD/charter/) | LDAP Service Deployment |
@@ -713,6 +720,7 @@
 | [MBONE ](http://datatracker.ietf.org/doc/search/?name=MBONE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MBONED ](http://datatracker.ietf.org/doc/search/?name=MBONED&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/MBONED/charter/) | MBONE Deployment |
 | [MC12 ](http://datatracker.ietf.org/doc/search/?name=MC12&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [MCM ](http://datatracker.ietf.org/doc/search/?name=MCM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Multiple Carrier Modulation |
 | [MD2 ](http://datatracker.ietf.org/doc/search/?name=MD2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MD4 ](http://datatracker.ietf.org/doc/search/?name=MD4&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MD5 ](http://datatracker.ietf.org/doc/search/?name=MD5&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -774,12 +782,14 @@
 | [MOVE ](http://datatracker.ietf.org/doc/search/?name=MOVE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MP-BGP ](http://datatracker.ietf.org/doc/search/?name=MP-BGP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MP3 ](http://datatracker.ietf.org/doc/search/?name=MP3&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [MPDP ](http://datatracker.ietf.org/doc/search/?name=MPDP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | MPLS-TP PWE3 Dual-homed Protection |
 | [MPEG ](http://datatracker.ietf.org/doc/search/?name=MPEG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MPEG-2 ](http://datatracker.ietf.org/doc/search/?name=MPEG-2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MPEG-4 ](http://datatracker.ietf.org/doc/search/?name=MPEG-4&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MPEG2 ](http://datatracker.ietf.org/doc/search/?name=MPEG2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [MPLS ](http://datatracker.ietf.org/doc/search/?name=MPLS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/MPLS/charter/) | Multiprotocol Label Switching |
 | [MPLS-TE ](http://datatracker.ietf.org/doc/search/?name=MPLS-TE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [MPLS-TP ](http://datatracker.ietf.org/doc/search/?name=MPLS-TP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | MPLS Transport Profile |
 | [MPSNMP ](http://datatracker.ietf.org/doc/search/?name=MPSNMP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/MPSNMP/charter/) | SNMP Over a Multi-Protocol Internet |
 | [MPTCP ](http://datatracker.ietf.org/doc/search/?name=MPTCP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/MPTCP/charter/) | Multipath TCP |
 | [MPTRANS ](http://datatracker.ietf.org/doc/search/?name=MPTRANS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/MPTRANS/charter/) | Multiprotocol Transport |
@@ -833,6 +843,8 @@
 | [NFILE ](http://datatracker.ietf.org/doc/search/?name=NFILE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NFS ](http://datatracker.ietf.org/doc/search/?name=NFS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NFSV4 ](http://datatracker.ietf.org/doc/search/?name=NFSV4&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/NFSV4/charter/) | Network File System Version 4 |
+| [NFV ](http://datatracker.ietf.org/doc/search/?name=NFV&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Network Function Virtualization |
+| [NG-ADSL ](http://datatracker.ietf.org/doc/search/?name=NG-ADSL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | New Generation Asymmetric Digital Subscriber Line |
 | [NGG ](http://datatracker.ietf.org/doc/search/?name=NGG&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NGP-0 ](http://datatracker.ietf.org/doc/search/?name=NGP-0&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NGTRANS ](http://datatracker.ietf.org/doc/search/?name=NGTRANS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/NGTRANS/charter/) | Next Generation Transition |
@@ -878,6 +890,7 @@
 | [NSA ](http://datatracker.ietf.org/doc/search/?name=NSA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NSAP ](http://datatracker.ietf.org/doc/search/?name=NSAP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NSEC ](http://datatracker.ietf.org/doc/search/?name=NSEC&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [NSF ](http://datatracker.ietf.org/doc/search/?name=NSF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Network Security Function |
 | [NSFNET ](http://datatracker.ietf.org/doc/search/?name=NSFNET&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NSI ](http://datatracker.ietf.org/doc/search/?name=NSI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [NSIS ](http://datatracker.ietf.org/doc/search/?name=NSIS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/NSIS/charter/) | Next Steps in Signaling |
@@ -1110,6 +1123,7 @@
 | [SBM ](http://datatracker.ietf.org/doc/search/?name=SBM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SCHEMA ](http://datatracker.ietf.org/doc/search/?name=SCHEMA&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SCHEMA/charter/) | Schema Registration |
 | [SCIM ](http://datatracker.ietf.org/doc/search/?name=SCIM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/SCIM/charter/) | System for Cross-domain Identity Management |
+| [SCM ](http://datatracker.ietf.org/doc/search/?name=SCM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Single Carrier Modulation |
 | [SCS ](http://datatracker.ietf.org/doc/search/?name=SCS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SCSI ](http://datatracker.ietf.org/doc/search/?name=SCSI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SCSP ](http://datatracker.ietf.org/doc/search/?name=SCSP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -1135,6 +1149,7 @@
 | [SHA-256 ](http://datatracker.ietf.org/doc/search/?name=SHA-256&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SHA1 ](http://datatracker.ietf.org/doc/search/?name=SHA1&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [SHA2 ](http://datatracker.ietf.org/doc/search/?name=SHA2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [SHDSL ](http://datatracker.ietf.org/doc/search/?name=SHDSL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Single-Pair High-Speed Digital Subscriber Line |
 | [SHIM6 ](http://datatracker.ietf.org/doc/search/?name=SHIM6&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SHIM6/charter/) | Site Multihoming by IPv6 Intermediation |
 | [SHR ](http://datatracker.ietf.org/doc/search/?name=SHR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SHR/charter/) | Special Host Requirements |
 | [SIDR ](http://datatracker.ietf.org/doc/search/?name=SIDR&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/SIDR/charter/) | Secure Inter-Domain Routing |
@@ -1165,7 +1180,7 @@
 | [SMIME ](http://datatracker.ietf.org/doc/search/?name=SMIME&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SMIME/charter/) | S/MIME Mail Security |
 | [SMING ](http://datatracker.ietf.org/doc/search/?name=SMING&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SMING/charter/) | Next Generation Structure of Management Information |
 | [SMIv2 ](http://datatracker.ietf.org/doc/search/?name=SMIv2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Structure of Management Information Version 2 |
-| [SMTP ](http://datatracker.ietf.org/doc/search/?name=SMTP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [SMTP ](http://datatracker.ietf.org/doc/search/?name=SMTP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Simple Mail Transfer Protocol |
 | [SMTPEXT ](http://datatracker.ietf.org/doc/search/?name=SMTPEXT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/SMTPEXT/charter/) | Internet Mail Extensions |
 | [SMV ](http://datatracker.ietf.org/doc/search/?name=SMV&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Selectable Mode Vocoder |
 | [SN ](http://datatracker.ietf.org/doc/search/?name=SN&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -1246,6 +1261,7 @@
 | [TCPLW ](http://datatracker.ietf.org/doc/search/?name=TCPLW&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/TCPLW/charter/) | TCP Large Windows |
 | [TCPM ](http://datatracker.ietf.org/doc/search/?name=TCPM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/TCPM/charter/) | TCP Maintenance and Minor Extensions |
 | [TCPSAT ](http://datatracker.ietf.org/doc/search/?name=TCPSAT&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/TCPSAT/charter/) | TCP Over Satellite |
+| [TDIM ](http://datatracker.ietf.org/doc/search/?name=TDIM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Time-Division Inverse Multiplexing |
 | [TDP ](http://datatracker.ietf.org/doc/search/?name=TDP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Tariff Distribution Protocol |
 | [TE ](http://datatracker.ietf.org/doc/search/?name=TE&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Traffic Engineering |
 | [TEAS ](http://datatracker.ietf.org/doc/search/?name=TEAS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Active WG ](http://datatracker.ietf.org/wg/TEAS/charter/) | Traffic Engineering Architecture and Signaling |
@@ -1358,6 +1374,8 @@
 | [VCARDDAV ](http://datatracker.ietf.org/doc/search/?name=VCARDDAV&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/VCARDDAV/charter/) | vCard and CardDAV |
 | [VCDIFF ](http://datatracker.ietf.org/doc/search/?name=VCDIFF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [VCID ](http://datatracker.ietf.org/doc/search/?name=VCID&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [VDSL ](http://datatracker.ietf.org/doc/search/?name=VDSL&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Very High Speed Digital Subscriber Line |
+| [VDSL2 ](http://datatracker.ietf.org/doc/search/?name=VDSL2&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Very High Speed Digital Subscriber Line 2 |
 | [VEMMI ](http://datatracker.ietf.org/doc/search/?name=VEMMI&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [VENUS ](http://datatracker.ietf.org/doc/search/?name=VENUS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [VERSION ](http://datatracker.ietf.org/doc/search/?name=VERSION&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
@@ -1370,6 +1388,7 @@
 | [VLS ](http://datatracker.ietf.org/doc/search/?name=VLS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [VMR-WB ](http://datatracker.ietf.org/doc/search/?name=VMR-WB&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Variable-Rate Multimode Wideband |
 | [VMTP ](http://datatracker.ietf.org/doc/search/?name=VMTP&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
+| [vNSF ](http://datatracker.ietf.org/doc/search/?name=vNSF&rfcs=on&activedrafts=on&olddrafts=on&sort=) | Yes | Virtual Network Security Function |
 | [VP8 ](http://datatracker.ietf.org/doc/search/?name=VP8&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
 | [VPIM ](http://datatracker.ietf.org/doc/search/?name=VPIM&rfcs=on&activedrafts=on&olddrafts=on&sort=) | [Concluded WG ](http://datatracker.ietf.org/wg/VPIM/charter/) | Voice Profile for Internet Mail |
 | [VPLS ](http://datatracker.ietf.org/doc/search/?name=VPLS&rfcs=on&activedrafts=on&olddrafts=on&sort=) | | |
